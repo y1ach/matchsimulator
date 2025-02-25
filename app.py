@@ -32,7 +32,7 @@ takim_verileri = {
         "yedigi_gol": 23,
         "hücum_gücü": 85,
         "savunma_gücü": 80,
-        "form": 1.1  # Son dönemdeki performans çarpanı
+        "form": 1.1
     },
     "Fenerbahçe": {
         "oynanan_maç": 23,
@@ -43,7 +43,7 @@ takim_verileri = {
         "yedigi_gol": 23,
         "hücum_gücü": 83,
         "savunma_gücü": 78,
-        "form": 1.0  # Son dönemdeki performans çarpanı
+        "form": 1.0
     }
 }
 
